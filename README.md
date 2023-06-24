@@ -14,13 +14,16 @@
 
 <h2>Requirements</h2>
 
-- Rust and Cargo
-- cargo-watch
-- NodeJS
+- [Rust and Cargo](https://www.rust-lang.org/)
+- [cargo-watch](https://github.com/watchexec/cargo-watch)
+- [NodeJS](https://nodejs.org/en)
 
 <h2>Getting Started</h2>
+<br/>
 
 Run the CLI commands below to prepare the app.
+<br/>
+
 **project directory**
 
 ```
