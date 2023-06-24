@@ -30,17 +30,17 @@ Run the CLI commands below to prepare the app.
 git clone https://github.com/bmwork/svelte-actix-template
 ```
 
-**backend directory**
-
-```
-npm run dev
-```
-
 **frontend directory**
 
 ```
 npm install
 ```
+
+```
+npm run dev
+```
+
+**backend directory**
 
 ```
 npm run dev
